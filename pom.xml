@@ -3,13 +3,13 @@
     <groupId>net.sf.saxon</groupId>
     <artifactId>saxon</artifactId>
     <packaging>jar</packaging>
-    <version>9.2-SNAPSHOT</version>
+    <version>9.3-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
         <checkoutDirectory>${basedir}/target/saxon-src</checkoutDirectory>
     </properties>
     <scm>
-        <connection>scm:svn:https://saxon.svn.sourceforge.net/svnroot/saxon/latest9.2</connection>
+        <connection>scm:svn:https://saxon.svn.sourceforge.net/svnroot/saxon/latest9.3</connection>
     </scm>
     <build>
         <sourceDirectory>${checkoutDirectory}/hej</sourceDirectory>
